@@ -14,7 +14,7 @@ MENTOR: NEELA SANTOSH
 
 DESCRIPTION:
 
-“The AI-Based Recommendation System developed in Java is designed to provide personalized suggestions to users by analyzing their preferences and interaction history. The system uses machine learning algorithms such as collaborative and content-based filtering to improve recommendation accuracy. It enhances user experience by delivering intelligent and relevant recommendations in real time.”
+“The AI-Based Recommendation System developed in Java is designed to provide personalized suggestions to users by analyzing their preferences and interaction history. The system uses machine learning algorithms such as collaborative and content-based filtering to improve recommendation accuracy. It enhances user experience by delivering intelligent and relevant recommendations in real time.”  this code consist of recommenfation based on the scv data provided by the userin the following and maven tool is used in vs code to support the enviroment to run the java application efficiently.
 
 OUTPUT:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a8df2f13-ccbe-44f3-9ad3-2e2ceeebc3d5" />
